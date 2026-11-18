@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project: 
   wokwi_id:     0       481041725416826881
-  title:        ""      AndGate
-  author:       ""      Eric Gay
-  discord:      ""      erice911
-  description:  ""      And gate NY design demo
+  title:        "AndGate"     
+  author:       "Eric Gay"      
+  discord:      "erice911"    
+  description:  "And Gate NY design demo"      
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
